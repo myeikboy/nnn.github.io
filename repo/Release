@@ -1,0 +1,8 @@
+Origin: nnn's repo
+Label: nnn's repo
+Suite: stable
+Version: 1.0
+Codename: nnnrepo
+Architectures: iphoneos-arm
+Components: main
+Description: nnn's Cydia Repository
